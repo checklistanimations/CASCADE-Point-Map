@@ -1,5 +1,5 @@
 # Point Map
-
+![Total downloads](https://img.shields.io/github/downloads/checklistanimations/CASCADE-Point-Map/total)
 **Point Map** is a PowerPoint add-in that introduces powerful tools for working with freeform shapes.  
 With Point Map, you can move multiple points at once, nudge them precisely with the keyboard, and edit shapes in ways that PowerPoint has never supported out-of-the-box.
 
