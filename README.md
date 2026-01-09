@@ -1,5 +1,5 @@
 # Point Map
-To Download, head over to the [Releases page](../../releases).  
+**To Download, head over to the [Releases page](../../releases).**  
 ![Total downloads](https://img.shields.io/github/downloads/checklistanimations/CASCADE-Point-Map/total)
 
 **Point Map** is a PowerPoint add-in that introduces powerful tools for working with freeform shapes.  
